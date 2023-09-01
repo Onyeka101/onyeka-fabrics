@@ -1,4 +1,4 @@
 [build]
-base = "Onyeka Fabrics"
+base = "Main-Project"
 command = "npm run build"
 publish = "Main-Project/public"
